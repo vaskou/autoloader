@@ -1,0 +1,17 @@
+{
+    "name": "vaskou/autoloader",
+    "type": "library",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Vasilis Koutsopoulos",
+            "email": "vaskou@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "files": [
+            "bootstrap_1_0_0.php"
+        ]
+    }
+}
