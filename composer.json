@@ -1,6 +1,7 @@
 {
     "name": "vaskou/autoloader",
     "type": "library",
+    "version": "v1.0.0",
     "license": "GPL-2.0-or-later",
     "authors": [
         {
