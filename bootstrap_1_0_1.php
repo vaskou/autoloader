@@ -1,9 +1,9 @@
 <?php
-if ( ! class_exists( 'Vaskou_Autoloader_Bootstrap_1_0_0' ) ) {
+if ( ! class_exists( 'Vaskou_Autoloader_Bootstrap_1_0_1' ) ) {
 
-	class Vaskou_Autoloader_Bootstrap_1_0_0 {
+	class Vaskou_Autoloader_Bootstrap_1_0_1 {
 
-		const VERSION = '1.0.0';
+		const VERSION = '1.0.1';
 
 		private static $_instance;
 
@@ -49,5 +49,5 @@ if ( ! class_exists( 'Vaskou_Autoloader_Bootstrap_1_0_0' ) ) {
 		}
 	}
 
-	Vaskou_Autoloader_Bootstrap_1_0_0::instance();
+	Vaskou_Autoloader_Bootstrap_1_0_1::instance();
 }
